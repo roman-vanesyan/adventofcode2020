@@ -1,0 +1,8 @@
+{
+  "private": true,
+  "name": "adventofcode2020",
+  "license": "MIT",
+  "devDependencies": {
+    "prettier": "^2.2.1"
+  }
+}
